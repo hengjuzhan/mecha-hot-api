@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-16T05:26:04.718782+00:00",
+ "updated": "2026-08-16T05:54:18.121356+00:00",
  "items": [
+  {
+   "title": "bella mir",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "ohio tornado warnings",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "katie taylor",
    "traffic": "500+",
@@ -23,32 +33,22 @@
   },
   {
    "title": "bangladesh vs australia",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "ben joyce",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "glenn close",
    "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "jacob elordi",
+   "title": "chris pine",
    "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "royals - angels",
-   "traffic": "200+",
+   "title": "prates",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "from neander",
-   "traffic": "5000+",
+   "title": "san jose earthquakes",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
