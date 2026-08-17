@@ -1,19 +1,44 @@
 {
- "updated": "2026-08-17T15:23:02.444202+00:00",
+ "updated": "2026-08-17T15:49:35.486550+00:00",
  "items": [
   {
-   "title": "bruce springsteen",
+   "title": "maria sakkari",
+   "traffic": "2000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "corte suprema",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "flavio cobolli",
    "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "nke stock",
+   "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "ohio state buckeyes football",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "bruce springsteen",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
    "title": "the diplomat netflix season 4",
-   "traffic": "500+",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
    "title": "bbc trump defamation lawsuit",
-   "traffic": "200+",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -24,31 +49,6 @@
   {
    "title": "glenpool fire",
    "traffic": "1000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "costco stock",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "rtx stock",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "nflx stock",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "marvell stock",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "nasdaq index",
-   "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
