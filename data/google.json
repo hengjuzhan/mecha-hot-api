@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-18T07:36:32.357161+00:00",
+ "updated": "2026-08-18T08:34:14.729788+00:00",
  "items": [
+  {
+   "title": "bruce springsteen",
+   "traffic": "2000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "camry",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "noah kahan tour",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "gina carano",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "hurricanes storm",
    "traffic": "500+",
@@ -13,12 +33,12 @@
   },
   {
    "title": "mcdonalds hello kitty happy meal",
-   "traffic": "200+",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
    "title": "snow",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -29,26 +49,6 @@
   {
    "title": "acetaminophen",
    "traffic": "100+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "it",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "bank",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "iphone 17 pro",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "rumble",
-   "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
