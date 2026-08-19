@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-19T05:58:10.680961+00:00",
+ "updated": "2026-08-19T06:54:52.620329+00:00",
  "items": [
+  {
+   "title": "loki",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "seattle",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "robin williams",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "semaglutide",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "diesel fuel",
    "traffic": "2000+",
@@ -23,32 +43,12 @@
   },
   {
    "title": "isack hadjar",
-   "traffic": "200+",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "tupac autopsy",
+   "title": "spacex rocket",
    "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "uso seumalo",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "weather tornado warning",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "mortgage",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "the beatles",
-   "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
