@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-19T05:28:14.035549+00:00",
+ "updated": "2026-08-19T05:58:10.680961+00:00",
  "items": [
+  {
+   "title": "diesel fuel",
+   "traffic": "2000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "dan wilson",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "petra parker",
    "traffic": "200+",
@@ -12,18 +22,23 @@
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "tupac autopsy",
-   "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
    "title": "isack hadjar",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
+   "title": "tupac autopsy",
+   "traffic": "2000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
    "title": "uso seumalo",
    "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "weather tornado warning",
+   "traffic": "10000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -34,21 +49,6 @@
   {
    "title": "the beatles",
    "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "seoul",
-   "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "pokemon cameras",
-   "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "justin timberlake",
-   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
