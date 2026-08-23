@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-23T08:58:17.758061+00:00",
+ "updated": "2026-08-23T09:33:52.010551+00:00",
  "items": [
+  {
+   "title": "draftkings",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "home prices",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "san andreas fault",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "lck",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "engagement rings",
    "traffic": "100+",
@@ -27,28 +47,8 @@
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "covid summer wave",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
    "title": "tropical storm moke",
    "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "japan tokyo earthquake today",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "progressive",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "ox alpha",
-   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
