@@ -1,13 +1,43 @@
 {
- "updated": "2026-08-23T05:27:24.448027+00:00",
+ "updated": "2026-08-23T05:56:11.967886+00:00",
  "items": [
   {
+   "title": "gordon ramsay",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "el cholo",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "irumudi movie",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "cricbuzz",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "penelope cruz",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
    "title": "cruz azul vs atlas f.c. standings",
-   "traffic": "500+",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
    "title": "icc",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "makai lemon",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
@@ -17,38 +47,8 @@
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "makai lemon",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
    "title": "camila zamorano",
    "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "son heung-min",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "time bomb",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "shiyazh pete",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "andrew tate",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "shipping",
-   "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
