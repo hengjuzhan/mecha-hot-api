@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-23T06:41:30.452201+00:00",
+ "updated": "2026-08-23T07:31:51.972823+00:00",
  "items": [
+  {
+   "title": "family horror movie",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "tropical storm moke",
+   "traffic": "10000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "ox alpha",
    "traffic": "200+",
@@ -38,16 +48,6 @@
   },
   {
    "title": "irumudi movie",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "cricbuzz",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "penelope cruz",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
