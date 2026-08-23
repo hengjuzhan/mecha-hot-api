@@ -1,54 +1,54 @@
 {
- "updated": "2026-08-23T11:45:12.686826+00:00",
+ "updated": "2026-08-23T12:35:30.202989+00:00",
  "items": [
   {
-   "title": "formula 1",
+   "title": "bbc football",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "brighton vs aston villa",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "manchester city",
+   "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "pep guardiola",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "us open fan week",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "man city vs bournemouth",
    "traffic": "5000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "f1 schedule",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "politics",
+   "title": "indycar freedom 250",
    "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "sergio garcia",
-   "traffic": "100+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "dp world tour",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "keanu reeves",
-   "traffic": "100+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "red sox standings",
-   "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "rishabh pant",
-   "traffic": "100+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "ceedee lamb home burglary",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "kyle busch cause of death",
+   "title": "norwegian cruise line sanitation failure",
    "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "postal worker",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "ohio",
+   "traffic": "100+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
