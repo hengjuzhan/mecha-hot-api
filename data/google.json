@@ -1,14 +1,29 @@
 {
- "updated": "2026-08-24T04:41:33.585958+00:00",
+ "updated": "2026-08-24T05:36:04.483180+00:00",
  "items": [
   {
-   "title": "phoenix weather",
+   "title": "citi",
+   "traffic": "2000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "citibank",
    "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "dust storm warning",
-   "traffic": "500+",
+   "title": "arizona state sun devils football",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "san diego weather",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "phoenix weather",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -18,17 +33,12 @@
   },
   {
    "title": "nick jonas",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "dust storm",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "내일 날씨",
    "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "haboob",
+   "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -38,16 +48,6 @@
   },
   {
    "title": "wild horses",
-   "traffic": "1000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "uss abraham lincoln",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "mayar sherif",
    "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
