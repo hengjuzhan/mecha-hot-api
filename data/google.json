@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-24T06:54:24.928948+00:00",
+ "updated": "2026-08-24T07:56:27.749369+00:00",
  "items": [
+  {
+   "title": "me",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "la",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "loans",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "prince",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "psychiatrist",
    "traffic": "200+",
@@ -8,7 +28,7 @@
   },
   {
    "title": "gamescom 2026",
-   "traffic": "100+",
+   "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -17,13 +37,8 @@
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "jrue holiday",
-   "traffic": "100+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
    "title": "harrison butker 69 yard field goal",
-   "traffic": "200+",
+   "traffic": "500+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
@@ -32,23 +47,8 @@
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "citi",
-   "traffic": "2000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
    "title": "arizona state sun devils football",
    "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "san diego weather",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "phoenix weather",
-   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
