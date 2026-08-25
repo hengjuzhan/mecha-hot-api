@@ -1,6 +1,21 @@
 {
- "updated": "2026-08-25T05:29:36.761805+00:00",
+ "updated": "2026-08-25T06:00:13.615182+00:00",
  "items": [
+  {
+   "title": "mexicali",
+   "traffic": "200+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "economic d day",
+   "traffic": "5000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "philippine airlines",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
   {
    "title": "brett goldstein",
    "traffic": "200+",
@@ -28,27 +43,12 @@
   },
   {
    "title": "christian styles death",
-   "traffic": "500+",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
    "title": "donna vekic",
    "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "el cholo ivan",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "al west standings",
-   "traffic": "5000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "manny machado",
-   "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
