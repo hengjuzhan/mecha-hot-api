@@ -1,54 +1,54 @@
 {
- "updated": "2026-09-08T13:28:12.210088+00:00",
+ "updated": "2026-09-08T17:22:39.345676+00:00",
  "items": [
   {
-   "title": "extreme heat warning",
+   "title": "south park",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "detención",
+   "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "vix",
+   "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "club brugge",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "lonnie bunch",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "liga de campeones de la uefa",
+   "traffic": "1000+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "brandon graham",
+   "traffic": "500+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "rhode",
    "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "cfb rankings",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "somalia",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "taj gibson",
+   "title": "lsu sec",
    "traffic": "2000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "patriots vs seahawks",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "post office",
-   "traffic": "10000+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "bowen yang",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "kevin reddington good morning america",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "stevie wonder tour",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "sandra bullock",
-   "traffic": "2000+",
+   "title": "marvel rivals",
+   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
