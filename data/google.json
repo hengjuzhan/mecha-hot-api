@@ -1,54 +1,54 @@
 {
- "updated": "2026-09-12T05:24:29.348563+00:00",
+ "updated": "2026-09-12T09:30:18.037622+00:00",
  "items": [
   {
-   "title": "lck",
+   "title": "interstate 81",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "brics",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "schools",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "ig",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "cryptocurrency trading",
+   "traffic": "100+",
+   "url": "https://trends.google.com/trending/rss?geo=US"
+  },
+  {
+   "title": "disneyland ticket prices",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "cillian murphy",
+   "title": "swimming",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "laguna beach",
+   "title": "new jersey",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "padres game",
+   "title": "fitness",
    "traffic": "200+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   },
   {
-   "title": "new movies streaming",
-   "traffic": "500+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "army fitness test",
+   "title": "cycling",
    "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "mater dei football",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "nifty",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "pluribus",
-   "traffic": "200+",
-   "url": "https://trends.google.com/trending/rss?geo=US"
-  },
-  {
-   "title": "rafael devers",
-   "traffic": "1000+",
    "url": "https://trends.google.com/trending/rss?geo=US"
   }
  ]
